@@ -1,0 +1,6 @@
+{
+  "appTitle": "demo_routing_issue",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
